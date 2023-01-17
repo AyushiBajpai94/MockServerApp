@@ -63,7 +63,125 @@
     ],
     "products":[{
       "id":1,
-      "name":"Motor",
-      "description":"abcdsd"
-  }]
+      "name":"AgriPro 3 HP Butterfly Rice Mill Machine without Motor APRM6N",
+      "price":11800,
+      "image":"https://static1.industrybuying.com/products/agriculture-garden-landscaping/grain-processing-machine/AGR.GRA.52125501_1668012170622.webp"
+  },
+  {
+    "id":2,
+    "name":"AgriPro 3 HP Disc Mill Crusher with Milling Screen Without Motor APDMC9FC=076",
+    "price":9990,
+    "image":"https://static1.industrybuying.com/products/agriculture-garden-landscaping/grain-processing-machine/AGR.GRA.62125493_1668012165829.webp"
+},
+{
+  "id":3,
+    "name":"AgriPro 3 HP Butterfly Combined Rice Mill Machine without Motor APCRM6N9FC",
+    "price":25800,
+    "image":"https://static1.industrybuying.com/products/agriculture-garden-landscaping/grain-processing-machine/AGR.GRA.82125517_1670416542273.webp"
+},
+{
+  "id":4,
+    "name":"AgriPro 1 HP Maize Thresher Machine Without Motor APMZ5TY-A",
+    "price":8980,
+    "image":"https://static1.industrybuying.com/products/agriculture-garden-landscaping/grain-processing-machine/AGR.GRA.32125484_1668012163371.webp"
+},
+{
+  "id":5,
+    "name":"AgriPro 3 HP Motor for Butterfly Rice Mill APRM6N",
+    "price":8690,
+    "image":"https://static1.industrybuying.com/products/agriculture-garden-landscaping/grain-processing-machine/AGR.GRA.42649918_1668027793077.webp"
+},
+{
+  "id":6,
+    "name":"AgriPro CO. Screen for Butterfly Combined Rice Mill APCRM6N9FC",
+    "price":518,
+    "image":"https://static1.industrybuying.com/products/agriculture-garden-landscaping/grain-processing-machine/AGR.GRA.35747465_1668203509193.webp"
+},
+{
+  "id":7,
+    "name":"AgriPro CO. Screen Ring Set for Butterfly Combined Rice Mill APCRM6N9FC",
+    "price":848,
+    "image":"https://static1.industrybuying.com/products/agriculture-garden-landscaping/grain-processing-machine/AGR.GRA.75747477_1669360316307.webp"
+},
+{
+  "id":8,
+    "name":"AgriPro 3 HP Motor for Disc Mill Crusher APDMC9FC",
+    "price":8580,
+    "image":"https://static1.industrybuying.com/products/agriculture-garden-landscaping/grain-processing-machine/AGR.GRA.22649928_1668027796713.webp"
+},
+{
+  "id":9,
+    "name":"AgriPro 3 HP Motor for Butterfly Combined Rice Mill APCRM6N9FC",
+    "price":9990,
+    "image":"https://static1.industrybuying.com/products/agriculture-garden-landscaping/grain-processing-machine/AGR.GRA.102323516_1668016153708.webp"
+},
+{
+  "id":10,
+    "name":"AgriPro 3 HP Butterfly Combined Rice Mill Machine with Motor APCRM6N9FC",
+    "price":29900,
+    "image":"https://static1.industrybuying.com/products/agriculture-garden-landscaping/grain-processing-machine/AGR.GRA.85998711_1668749990602.webp"
+},
+{
+  "id":11,
+    "name":"AgriPro APCRM6N100-9FC21 Combined Rice Mill with Motor",
+    "price":37900,
+    "image":"https://static1.industrybuying.com/products/agriculture-garden-landscaping/grain-processing-machine/AGR.GRA.86695661_1668315294535.webp"
+},
+{
+  "id":12,
+    "name":"AgriPro 3 HP Butterfly Rice Mill Machine with Motor APRM6N",
+    "price":21900,
+    "image":"https://static1.industrybuying.com/products/agriculture-garden-landscaping/grain-processing-machine/AGR.GRA.105998706_1668223096609.webp"
+},
+{
+  "id":13,
+    "name":"AgriPro 1 HP Maize Thresher Machine with Motor APMZ5TY-A",
+    "price":13800,
+    "image":"https://static1.industrybuying.com/products/agriculture-garden-landscaping/grain-processing-machine/AGR.GRA.95998730_1668223109524.webp"
+},
+{
+  "id":14,
+    "name":"AgriPro 3 HP Combined Rice Mill Machine With Motor APCR6N409FC",
+    "price":29900,
+    "image":"https://static1.industrybuying.com/products/agriculture-garden-landscaping/grain-processing-machine/AGR.GRA.105998751_1672313192415.webp"
+},
+{
+  "id":15,
+    "name":"AgriPro 1 HP Motor for Maize Thresher Machine APMZ5TY",
+    "price":6680,
+    "image":"https://static1.industrybuying.com/products/agriculture-garden-landscaping/grain-processing-machine/AGR.GRA.82335603_1672313462066.webp"
+},
+{
+  "id":16,
+    "name":"AgriPro Rice Mill Roller Light for Butterfly Combined Rice Mill APCRM6N9FC",
+    "price":2480,
+    "image":"https://static1.industrybuying.com/products/agriculture-garden-landscaping/grain-processing-machine/AGR.GRA.105747383_1668203505142.webp"
+},
+{
+  "id":17,
+    "name":"Agripro Long square teeth Stainless steel pack of 10 teeth",
+    "price":1280,
+    "image":"https://static1.industrybuying.com/products/agriculture-garden-landscaping/grain-processing-machine/AGR.GRA.106949661_1670492928873.webp"
+},
+{
+  "id":18,
+    "name":"Agripro T-tooth Stainless steel pack of 10 teeth",
+    "price":1280,
+    "image":"https://static1.industrybuying.com/products/agriculture-garden-landscaping/grain-processing-machine/AGR.GRA.56949648_1670492938709.webp"
+},
+{
+  "id":19,
+    "name":"Rico Italy Rice Mill with Motor P4RI RF 86",
+    "price":31800,
+    "image":"https://static1.industrybuying.com/products/agriculture-garden-landscaping/grain-processing-machine/AGR.GRA.45857918_1668211409477.webp"
+},
+{
+  "id":20,
+    "name":"Confider Rice Mill Machine without Motor 3 HP RMS(Single)",
+    "price":27800,
+    "image":"https://static1.industrybuying.com/products/agriculture-garden-landscaping/grain-processing-machine/AGR.GRA.55502035_1668186867204.webp"
+}
+
+
+]
   }
