@@ -181,7 +181,57 @@
     "price":27800,
     "image":"https://static1.industrybuying.com/products/agriculture-garden-landscaping/grain-processing-machine/AGR.GRA.55502035_1668186867204.webp"
 }
-
-
+],
+"categories":[
+  {
+    "id":1,
+    "image":"https://static1.industrybuying.com/category_small/2022/11/grain-processing-machine-16292-1669116640479.webp",
+    "categoryname":"Grain Processing Machine"
+  },
+  {
+    "id":2,
+    "image":"https://static1.industrybuying.com/category_small/2022/11/tillers-and-cultivator-15349-1669116172726.webp",
+    "categoryname":"Tillers and Cultivator"
+  },
+  {
+    "id":3,
+    "image":"https://static1.industrybuying.com/category_small/2022/11/brush-cutter-and-accessories-2387-1669114282645.webp",
+    "categoryname":"Brush Cutter and Accessories"
+  },
+  {
+    "id":4,
+    "image":"https://static1.industrybuying.com/category_small/2022/11/chaff-cutter-6234-1669114298515.webp",
+    "categoryname":"Chaff Cutter"
+  },
+  {
+    "id":5,
+    "image":"https://static1.industrybuying.com/category_small/2022/11/sprayers-15330-1669116165557.webp",
+    "categoryname":"Sprayers"
+  },
+  {
+    "id":6,
+    "image":"https://static1.industrybuying.com/category_small/2022/11/chain-saw-15367-1669116180849.webp",
+    "categoryname":"Chain Saw"
+  },
+  {
+    "id":7,
+    "image":"https://static1.industrybuying.com/category_small/2022/11/water-pump-sets-16281-1669116634678.webp",
+    "categoryname":"Water Pump Sets"
+  },
+  {
+    "id":8,
+    "image":"https://static1.industrybuying.com/category_small/2022/11/lawn-mower-15410-1669116201052.webp",
+    "categoryname":"Lawn Mower"
+  },
+  {
+    "id":9,
+    "image":"https://static1.industrybuying.com/category_small/2022/11/earth-auger-2442-1669114287178.webp",
+    "categoryname":"Earth Auger"
+  },
+  {
+    "id":10,
+    "image":"https://static1.industrybuying.com/category_small/2022/11/seed-planter-14148-1669114315344.webp",
+    "categoryname":"Seed Planter"
+  }
 ]
   }
