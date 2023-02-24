@@ -249,7 +249,7 @@
     "Brandname": "KVD Beauty",
     "Title": "Good Apple Full-Coverage Transfer-Proof Vegan Serum Foundation",
     "rating": "450",
-    "price": "$42.00"
+    "price": 42.00
   },
   {
       "id":2,
@@ -257,7 +257,7 @@
     "Brandname": "Glow Recipe",
     "Title": "Glowy Skin Prep Besties Set",
     "rating": "54",
-    "price": "$52.00"
+    "price": 52.00
   },
   {
       "id":3,
@@ -265,7 +265,7 @@
     "Brandname": "Paula's Choice",
     "Title": "Pro Collagen Multi-Peptide Booster",
     "rating": "6",
-    "price": "$58.00"
+    "price": 58.00
   },
   {
       "id":4,
@@ -273,7 +273,7 @@
     "Brandname": "KILIAN Paris",
     "Title": "Can't Stop Loving You",
     "rating": "5",
-    "price": "$275.00"
+    "price": 275.00
   },
   {
       "id":5,
@@ -281,7 +281,7 @@
     "Brandname": "ROSE INC",
     "Title": "Solar Power Luminous SPF 30 Brightening Serum",
     "rating": "265",
-    "price": "$46.00"
+    "price": 46.00
   },
   {
       "id":6,
@@ -289,7 +289,7 @@
     "Brandname": "MAKEUP BY MARIO",
     "Title": "SurrealSkin™ Liquid Foundation",
     "rating": "520",
-    "price": "$42.00"
+    "price": 42.00
   },
   {
       "id":7,
@@ -297,7 +297,7 @@
     "Brandname": "LANEIGE",
     "Title": "Berries n' Choco Kisses Set",
     "rating": "129",
-    "price": "$26.00"
+    "price": 26.00
   },
   {
       "id":8,
@@ -305,7 +305,7 @@
     "Brandname": "Sol de Janeiro",
     "Title": "Bum Bum Firmeza Firming & Debloating Body Oil",
     "rating": "145",
-    "price": "$52.00"
+    "price": 52.00
   },
   {
       "id":9,
@@ -313,7 +313,7 @@
     "Brandname": "Fenty Beauty by Rihanna",
     "Title": "Fenty Icon Velvet Liquid Lipstick",
     "rating": "32",
-    "price": "$29.00"
+    "price": 29.00
   },
   {
       "id":10,
@@ -321,7 +321,7 @@
     "Brandname": "Glow Recipe",
     "Title": "Plumping Power Duo",
     "rating": "48",
-    "price": "$54.00"
+    "price": 54.00
   },
   {
       "id":11,
@@ -329,7 +329,7 @@
     "Brandname": "MAKE UP FOR EVER",
     "Title": "HD Skin Matte Velvet Undetectable Longwear Blurring Powder Foundation",
     "rating": "165",
-    "price": "$43.00"
+    "price": 43.00
   },
   {
       "id":12,
@@ -337,7 +337,7 @@
     "Brandname": "Fenty Beauty by Rihanna",
     "Title": "Fenty Eau de Parfum",
     "rating": "193",
-    "price": "$140.00"
+    "price": 140.00
   },
   {
       "id":13,
@@ -345,7 +345,7 @@
     "Brandname": "MILK MAKEUP",
     "Title": "Sculpt Cream Contour Stick",
     "rating": "197",
-    "price": "$24.00"
+    "price": 24.00
   },
   {
       "id":14,
@@ -353,7 +353,7 @@
     "Brandname": "Caudalie",
     "Title": "Vinoperfect  Brightening Solution Set",
     "rating": "1",
-    "price": "$82.00"
+    "price": 82.00
   },
   {
       "id":15,
@@ -361,7 +361,7 @@
     "Brandname": "Tower 28 Beauty",
     "Title": "Sculptino™ Soft Matte Cream Contour + Bronzer",
     "rating": "294",
-    "price": "$20.00"
+    "price": 20.00
   },
   {
       "id":16,
@@ -369,7 +369,7 @@
     "Brandname": "Olaplex",
     "Title": "No.4D Clean Volume Detox Dry Shampoo",
     "rating": "995",
-    "price": "$30.00"
+    "price": 30.00
   },
   {
       "id":17,
@@ -377,7 +377,7 @@
     "Brandname": "PATRICK TA",
     "Title": "Precision Dual Ended Sculpting Brush",
     "rating": "5",
-    "price": "$45.00"
+    "price": 45.00
   },
   {
       "id":18,
@@ -385,7 +385,7 @@
     "Brandname": "Glow Recipe",
     "Title": "Mini Watermelon Glow Niacinamide Dew Drops",
     "rating": "3",
-    "price": "$20.00"
+    "price": 20.00
   },
   {
       "id":19,
@@ -393,7 +393,7 @@
     "Brandname": "Laura Mercier",
     "Title": "Tinted Moisturizer Bronzer",
     "rating": "3",
-    "price": "$30.00"
+    "price": 30.00
   },
   {
       "id":20,
@@ -401,7 +401,7 @@
     "Brandname": "NUDESTIX",
     "Title": "Nude Earth Eye Palette 6 Pc Kit",
     "rating": "",
-    "price": "$69.00"
+    "price": 69.00
   },
   {
       "id":21,
@@ -409,7 +409,7 @@
     "Brandname": "Caudalie",
     "Title": "Resveratrol-Lift Ultimate Firming Set",
     "rating": "2",
-    "price": "$84.00"
+    "price": 84.00
   },
   {
       "id":22,
@@ -417,7 +417,7 @@
     "Brandname": "PAT McGRATH LABS",
     "Title": "The Love Collection MTHRSHP: Iconic Infatuation",
     "rating": "",
-    "price": "$65.00"
+    "price": 65.00
   },
   {
       "id":23,
@@ -425,7 +425,7 @@
     "Brandname": "NuFACE",
     "Title": "NuFACE® Mini+ Petite Facial Toning Device",
     "rating": "168",
-    "price": "$245.00"
+    "price": 245.00
   },
   {
       "id":24,
@@ -433,7 +433,7 @@
     "Brandname": "Freck Beauty",
     "Title": "RICH BITCH Hydrating Face Primer Serum",
     "rating": "207",
-    "price": "$38.00"
+    "price": 38.00
   },
   {
       "id":25,
@@ -441,7 +441,7 @@
     "Brandname": "Sephora Favorites",
     "Title": "Mini Perfume Sampler Set",
     "rating": "16",
-    "price": "$72.00"
+    "price": 72.00
   },
   {
       "id":26,
@@ -449,7 +449,7 @@
     "Brandname": "PAT McGRATH LABS",
     "Title": "The Love Collection MTHRSHP: Velvet Liaison",
     "rating": "2",
-    "price": "$65.00"
+    "price": 65.00
   },
   {
       "id":27,
@@ -457,7 +457,7 @@
     "Brandname": "Caudalie",
     "Title": "Premier Cru Fine Lines and Wrinkles Anti-Aging Set",
     "rating": "",
-    "price": "$139.00"
+    "price": 139.00
   },
   {
       "id":28,
@@ -465,7 +465,7 @@
     "Brandname": "MAKE UP FOR EVER",
     "Title": "HD Skin Sponge",
     "rating": "1",
-    "price": "$18.00"
+    "price": 18.00
   },
   {
       "id":29,
@@ -473,7 +473,7 @@
     "Brandname": "Nutrafol",
     "Title": "WOMEN Clinically Proven Hair Growth Supplement for Thinning",
     "rating": "63",
-    "price": "$88.00"
+    "price": 88.00
   },
   {
       "id":30,
@@ -481,7 +481,7 @@
     "Brandname": "NUDESTIX",
     "Title": "Nudescreen Lip Primer SPF 30 Natural",
     "rating": "10",
-    "price": "$18.00"
+    "price": 18.00
   },
   {
       "id":31,
@@ -489,7 +489,7 @@
     "Brandname": "Caudalie",
     "Title": "Mini Pore Minimizing Instant Detox Mask",
     "rating": "1K",
-    "price": "$22.00"
+    "price": 22.00
   },
   {
       "id":32,
@@ -497,7 +497,7 @@
     "Brandname": "The Original MakeUp Eraser",
     "Title": "Mini Pink Reusable MakeUp Eraser",
     "rating": "1",
-    "price": "$10.00"
+    "price": 10.00
   },
   {
       "id":33,
@@ -505,7 +505,7 @@
     "Brandname": "Melt Cosmetics",
     "Title": "Perfectionist Brow Pencil",
     "rating": "10",
-    "price": "$22.00"
+    "price": 22.00
   },
   {
       "id":34,
@@ -513,7 +513,7 @@
     "Brandname": "belif",
     "Title": "Aqua Bomb Everyday Hydration Set",
     "rating": "300",
-    "price": "$38.00"
+    "price": 38.00
   },
   {
       "id":35,
@@ -521,7 +521,7 @@
     "Brandname": "Melt Cosmetics",
     "Title": "Perfectionist Brow Ultra-Fine Pen",
     "rating": "100",
-    "price": "$24.00"
+    "price": 24.00
   },
   {
       "id":36,
@@ -529,7 +529,7 @@
     "Brandname": "La Mer",
     "Title": "The Cleansing Gel",
     "rating": "1",
-    "price": "$95.00"
+    "price": 95.00
   },
   {
       "id":37,
@@ -537,7 +537,7 @@
     "Brandname": "Ami Colé",
     "Title": "Desert Date Cream Blush & Lip Multistick",
     "rating": "200",
-    "price": "$22.00"
+    "price": 22.00
   },
   {
       "id":38,
@@ -545,7 +545,7 @@
     "Brandname": "Tatcha",
     "Title": "Mini Deep Cleanse Gentle Exfoliating Cleanser",
     "rating": "5",
-    "price": "$18.00"
+    "price": 18.00
   },
   {
       "id":39,
@@ -553,7 +553,7 @@
     "Brandname": "Melt Cosmetics",
     "Title": "Perfectionist Brow Gel",
     "rating": "1",
-    "price": "$25.00"
+    "price": 25.00
   },
   {
       "id":40,
@@ -561,7 +561,7 @@
     "Brandname": "Living Proof",
     "Title": "Perfect hair Day (PhD) Dry Shampoo",
     "rating": "4K",
-    "price": "$43.00"
+    "price": 43.00
   },
   {
       "id":41,
@@ -569,7 +569,7 @@
     "Brandname": "MAKE UP FOR EVER",
     "Title": "Gentle Eye Gel Waterproof Eye & Lip Makeup Remover",
     "rating": "200",
-    "price": "$29.00"
+    "price": 29.00
   },
   {
       "id":42,
@@ -577,7 +577,7 @@
     "Brandname": "belif",
     "Title": "Aqua Bomb Protect & Glow Travel Kit",
     "rating": "1K",
-    "price": "$27.00"
+    "price": 27.00
   },
   {
       "id":43,
@@ -585,7 +585,7 @@
     "Brandname": "MAKE UP FOR EVER",
     "Title": "Mini Mist & Fix 24HR Hydrating Setting Spray",
     "rating": "2K",
-    "price": "$15.00"
+    "price": 15.00
   },
   {
       "id":44,
@@ -593,7 +593,7 @@
     "Brandname": "MAKE UP FOR EVER",
     "Title": "Mini Gentle Eye Gel Waterproof Eye & Lip Makeup Remover",
     "rating": "200",
-    "price": "$15.00"
+    "price": 15.00
   },
   {
       "id":45,
@@ -601,7 +601,7 @@
     "Brandname": "Isle of Paradise",
     "Title": "Self-Tanning Mousse",
     "rating": "200",
-    "price": "$32.00"
+    "price": 32.00
   },
   {
       "id":46,
@@ -609,7 +609,7 @@
     "Brandname": "Charlotte Tilbury",
     "Title": "Matte Beauty Blush Wands",
     "rating": "261",
-    "price": "$42.00"
+    "price": 42.00
   },
   {
       "id":47,
@@ -617,7 +617,7 @@
     "Brandname": "DAMDAM",
     "Title": "Snow Mushroom Pore Cleanser with Exfoliating Glove",
     "rating": "33",
-    "price": "$47.00"
+    "price": 47.00
   },
   {
       "id":48,
@@ -625,7 +625,7 @@
     "Brandname": "Charlotte Tilbury",
     "Title": "Glow Glide Face Architect Highlighter",
     "rating": "473",
-    "price": "$48.00"
+    "price": 48.00
   },
   {
       "id":49,
@@ -633,7 +633,7 @@
     "Brandname": "Sephora Favorites",
     "Title": "Perfume Sampler Gift Set",
     "rating": "25",
-    "price": "$28.00"
+    "price": 28.00
   },
   {
       "id":50,
@@ -641,7 +641,7 @@
     "Brandname": "LAWLESS",
     "Title": "Forget the Filler Lip-Plumping Line-Smoothing Tinted Lip Balm",
     "rating": "273",
-    "price": "$26.00"
+    "price": 26.00
   },
   {
       "id":51,
@@ -649,7 +649,7 @@
     "Brandname": "Glow Recipe",
     "Title": "Fruit Babies Bestsellers Kit",
     "rating": "162",
-    "price": "$33.00"
+    "price": 33.00
   },
   {
       "id":52,
@@ -657,7 +657,7 @@
     "Brandname": "Sephora Favorites",
     "Title": "Mini Lashstash To Go Mascara Set With Redeemable Voucher",
     "rating": "44",
-    "price": "$28.00"
+    "price": 28.00
   },
   {
       "id":53,
@@ -665,7 +665,7 @@
     "Brandname": "Nutrafol",
     "Title": "WOMEN’S BALANCE 45+ Clinically Proven Hair Growth Supplement for Thinning",
     "rating": "18",
-    "price": "$88.00"
+    "price": 88.00
   },
   {
       "id":54,
@@ -673,7 +673,7 @@
     "Brandname": "Dior",
     "Title": "Dior Forever Skin Correct Full-Coverage Concealer",
     "rating": "214",
-    "price": "$40.00"
+    "price": 40.00
   },
   {
       "id":55,
@@ -681,7 +681,7 @@
     "Brandname": "ILIA",
     "Title": "Bright Start Retinol Alternative Brightening Eye Cream",
     "rating": "420",
-    "price": "$46.00"
+    "price": 46.00
   },
   {
       "id":56,
@@ -689,7 +689,7 @@
     "Brandname": "NARS",
     "Title": "Soft Matte Advanced Perfecting Powder",
     "rating": "33",
-    "price": "$36.00"
+    "price": 36.00
   },
   {
       "id":57,
@@ -697,7 +697,7 @@
     "Brandname": "LANEIGE",
     "Title": "Midnight to Morning Hydration Set",
     "rating": "29",
-    "price": "$21.00"
+    "price": 21.00
   },
   {
       "id":58,
@@ -705,7 +705,7 @@
     "Brandname": "Danessa Myricks Beauty",
     "Title": "Yummy Skin Blurring Balm Powder Flushed - Matte Color for Cheek & Lip",
     "rating": "976",
-    "price": "$25.00"
+    "price": 25.00
   },
   {
       "id":59,
@@ -713,7 +713,7 @@
     "Brandname": "Valentino",
     "Title": "Donna Born In Roma Intense Eau de Parfum Travel Spray",
     "rating": "1",
-    "price": "$35.00"
+    "price": 35.00
   },
   {
       "id":60,
@@ -721,7 +721,7 @@
     "Brandname": "Peter Thomas Roth",
     "Title": "Instant FIRMx® No-Filter Primer",
     "rating": "227",
-    "price": "$42.00"
+    "price": 42.00
   },
   {
       "id":61,
@@ -729,7 +729,7 @@
     "Brandname": "Caudalie",
     "Title": "Premier Cru Skin Barrier Rich Moisturizer with Bio-Ceramides",
     "rating": "167",
-    "price": "$129.00"
+    "price": 129.00
   },
   {
       "id":62,
@@ -737,7 +737,7 @@
     "Brandname": "Urban Decay",
     "Title": "Quickie 24H Multi-Use Hydrating Full-Coverage Concealer",
     "rating": "956",
-    "price": "$33.00"
+    "price": 33.00
   },
   {
       "id":63,
@@ -745,7 +745,7 @@
     "Brandname": "Nutrafol",
     "Title": "Women’s Lightweight Thickening-Hair Serum for Thinning Hair",
     "rating": "132",
-    "price": "$69.00"
+    "price": 69.00
   },
   {
       "id":64,
@@ -753,7 +753,7 @@
     "Brandname": "NARS",
     "Title": "Orgasm Rising Eyeshadow Palette",
     "rating": "5",
-    "price": "$49.00"
+    "price": 49.00
   },
   {
       "id":65,
@@ -761,7 +761,7 @@
     "Brandname": "Dr. Jart+",
     "Title": "Ceramidin™ Skin Barrier Moisturizing Cream",
     "rating": "337",
-    "price": "$48.00"
+    "price": 48.00
   },
   {
       "id":66,
@@ -769,7 +769,7 @@
     "Brandname": "Westman Atelier",
     "Title": "Mini Petite Face Trace Cream Contour Stick",
     "rating": "17",
-    "price": "$25.00"
+    "price": 25.00
   },
   {
       "id":67,
@@ -777,7 +777,7 @@
     "Brandname": "Dior",
     "Title": "Miss Dior Eau de Parfum Set",
     "rating": "4",
-    "price": "$155.00"
+    "price": 155.00
   },
   {
       "id":68,
@@ -785,7 +785,7 @@
     "Brandname": "MAKEUP BY MARIO",
     "Title": "Surreal Foundation F4 Brush",
     "rating": "28",
-    "price": "$30.00"
+    "price": 30.00
   },
   {
       "id":69,
@@ -793,7 +793,7 @@
     "Brandname": "Herbivore",
     "Title": "Super Nova 5% THD Vitamin C + Caffeine Brightening Eye Cream",
     "rating": "169",
-    "price": "$48.00"
+    "price": 48.00
   },
   {
       "id":70,
@@ -801,7 +801,7 @@
     "Brandname": "Laura Mercier",
     "Title": "Jumbo Translucent Loose Setting Powder & Velour Puff",
     "rating": "27",
-    "price": "$49.00"
+    "price": 49.00
   },
   {
       "id":71,
@@ -809,7 +809,7 @@
     "Brandname": "ONE/SIZE by Patrick Starrr",
     "Title": "Lip Snatcher Hydrating Liquid Lipstick and Lip Gloss Duo",
     "rating": "52",
-    "price": "$28.00"
+    "price": 28.00
   },
   {
       "id":72,
@@ -817,7 +817,7 @@
     "Brandname": "Crown Affair",
     "Title": "The Flexible Hold Finishing Hair Gel",
     "rating": "5",
-    "price": "$42.00"
+    "price": 42.00
   },
   {
       "id":73,
@@ -825,7 +825,7 @@
     "Brandname": "SEPHORA COLLECTION",
     "Title": "Destinations Eye Palette",
     "rating": "7",
-    "price": "$15.00"
+    "price": 15.00
   },
   {
       "id":74,
@@ -833,7 +833,7 @@
     "Brandname": "Drunk Elephant",
     "Title": "Bouncy Brightfacial Brightening Mask with 10% Azelaic Acid + 1% Salicylic Acid",
     "rating": "403",
-    "price": "$68.00"
+    "price": 68.00
   },
   {
       "id":75,
@@ -841,7 +841,7 @@
     "Brandname": "Hourglass",
     "Title": "Unlocked™ Satin Crème Lipstick",
     "rating": "159",
-    "price": "$38.00"
+    "price": 38.00
   },
   {
       "id":76,
@@ -849,7 +849,7 @@
     "Brandname": "SEPHORA COLLECTION",
     "Title": "Sheer Matte Lip Balm",
     "rating": "30",
-    "price": "$10.00"
+    "price": 10.00
   },
   {
       "id":77,
@@ -857,7 +857,7 @@
     "Brandname": "Tatcha",
     "Title": "Kissu Lip Mask Duo",
     "rating": "4",
-    "price": "$48.00"
+    "price": 48.00
   },
   {
       "id":78,
@@ -865,7 +865,7 @@
     "Brandname": "SEPHORA COLLECTION",
     "Title": "Color Shifter Mini Eyeshadow Palette",
     "rating": "23",
-    "price": "$10.00"
+    "price": 10.00
   },
   {
       "id":79,
@@ -873,7 +873,7 @@
     "Brandname": "Glow Recipe",
     "Title": "Avocado Ceramide Moisture Barrier Cleanser",
     "rating": "558",
-    "price": "$28.00"
+    "price": 28.00
   },
   {
       "id":80,
@@ -881,7 +881,7 @@
     "Brandname": "NARS",
     "Title": "Mini Orgasm Blush and Lip Gloss Duo Set",
     "rating": "1",
-    "price": "$27.00"
+    "price": 27.00
   },
   {
       "id":81,
@@ -889,7 +889,7 @@
     "Brandname": "Paco Rabanne",
     "Title": "Mini Fame Perfume Set",
     "rating": "1",
-    "price": "$35.00"
+    "price": 35.00
   },
   {
       "id":82,
@@ -897,7 +897,7 @@
     "Brandname": "NARS",
     "Title": "Orgasm Four Play Blush, Contour, and Highlighter Palette",
     "rating": "6",
-    "price": "$45.00"
+    "price": 45.00
   }
  ],
  "Eye": [
@@ -906,7 +906,7 @@
         "Brandname": "Kaja",
         "Title": "Eye Bento Bouncy Eyeshadow Trio",
         "rating": "1.7K",
-        "price": "$46.00"
+        "price": 46.00
       },
       {
           "id":2,
@@ -914,7 +914,7 @@
         "Brandname": "PAT McGRATH LABS",
         "Title": "MTHRSHP MEGA: Celestial Nirvana",
         "rating": "476",
-        "price": "$40.00"
+        "price": 40.00
       },
       {
           "id":3,
@@ -922,7 +922,7 @@
         "Brandname": "Anastasia Beverly Hills",
         "Title": "Soft Glam Eyeshadow Palette",
         "rating": "2.9K",
-        "price": "$45.00"
+        "price": 45.00
       },
       {
           "id":4,
@@ -930,7 +930,7 @@
         "Brandname": "Dior",
         "Title": "BACKSTAGE Eyeshadow Palette",
         "rating": "371",
-        "price": "$49.00"
+        "price": 49.00
       },
       {
           "id":5,
@@ -938,7 +938,7 @@
         "Brandname": "Natasha Denona",
         "Title": "My Dream Eyeshadow Palette",
         "rating": "306",
-        "price": "$69.00"
+        "price": 69.00
       },
       {
           "id":6,
@@ -946,7 +946,7 @@
         "Brandname": "Natasha Denona",
         "Title": "Pastel Eyeshadow Palette",
         "rating": "97",
-        "price": "$69.00"
+        "price": 69.00
       },
       {
           "id":7,
@@ -954,7 +954,7 @@
         "Brandname": "Too Faced",
         "Title": "Pumpkin Spice Second Slice Sweet & Spicy Eyeshadow Palette",
         "rating": "25",
-        "price": ""
+        "price": "100.00"
       },
       {
           "id":8,
@@ -962,7 +962,7 @@
         "Brandname": "NARS",
         "Title": "Orgasm Rising Eyeshadow Palette",
         "rating": "5",
-        "price": "$49.00"
+        "price": 49.00
       },
       {
           "id":9,
@@ -970,7 +970,7 @@
         "Brandname": "Natasha Denona",
         "Title": "Glam Eyeshadow Palette",
         "rating": "555",
-        "price": "$27.00 - $69.00"
+        "price": 69.00
       },
       {
           "id":10,
@@ -978,7 +978,7 @@
         "Brandname": "SEPHORA COLLECTION",
         "Title": "Color Shifter Mini Eyeshadow Palette",
         "rating": "23",
-        "price": "$10.00"
+        "price": 10.00
       },
       {
           "id":11,
@@ -986,7 +986,7 @@
         "Brandname": "tarte",
         "Title": "Gilded Glamour Amazonian Clay Eyeshadow Wardrobe",
         "rating": "31",
-        "price": "$20.00"
+        "price": 20.00
       },
       {
           "id":12,
@@ -994,7 +994,7 @@
         "Brandname": "MAKE UP FOR EVER",
         "Title": "Artist Color Refillable Makeup Palette",
         "rating": "262",
-        "price": "$4.00"
+        "price": 4.00
       },
       {
           "id":13,
@@ -1002,7 +1002,7 @@
         "Brandname": "HUDA BEAUTY",
         "Title": "Nude Obsessions Eyeshadow Palette",
         "rating": "878",
-        "price": "$29.00"
+        "price": 29.00
       },
       {
           "id":14,
@@ -1010,7 +1010,7 @@
         "Brandname": "HUDA BEAUTY",
         "Title": "The New Nude Eyeshadow Palette",
         "rating": "2K",
-        "price": "$65.00"
+        "price": 65.00
       },
       {
           "id":15,
@@ -1018,7 +1018,7 @@
         "Brandname": "Danessa Myricks Beauty",
         "Title": "Lightwork Vol. IV: Transcendence Palette - Illuminating Eye & Face Pigments",
         "rating": "164",
-        "price": "$125.00"
+        "price": 125.00
       },
       {
           "id":16,
@@ -1026,7 +1026,7 @@
         "Brandname": "HUDA BEAUTY",
         "Title": "Empowered Eyeshadow Palette",
         "rating": "170",
-        "price": "$67.00"
+        "price": 67.00
       },
       {
           "id":17,
@@ -1034,7 +1034,7 @@
         "Brandname": "tarte",
         "Title": "Tartelette™ In Bloom Clay Eyeshadow Palette",
         "rating": "3.3K",
-        "price": "$45.00"
+        "price": 45.00
       },
       {
           "id":18,
@@ -1042,7 +1042,7 @@
         "Brandname": "PAT McGRATH LABS",
         "Title": "The Love Collection MTHRSHP: Velvet Liaison",
         "rating": "1",
-        "price": "$65.00"
+        "price": 65.00
       },
       {
           "id":19,
@@ -1050,7 +1050,7 @@
         "Brandname": "ONE/SIZE by Patrick Starrr",
         "Title": "PATRICK STARRR Visionary Eyeshadow Palette",
         "rating": "162",
-        "price": "$15.00"
+        "price": 15.00
       },
       {
           "id":20,
@@ -1058,7 +1058,7 @@
         "Brandname": "Fenty Beauty by Rihanna",
         "Title": "Snap Shadows Mix & Match Eyeshadow Palette",
         "rating": "352",
-        "price": "$30.00"
+        "price": 30.00
       },
       {
           "id":21,
@@ -1066,7 +1066,7 @@
         "Brandname": "PAT McGRATH LABS",
         "Title": "The Love Collection MTHRSHP: Iconic Infatuation",
         "rating": "300",
-        "price": "$65.00"
+        "price": 65.00
       },
       {
           "id":22,
@@ -1074,7 +1074,7 @@
         "Brandname": "Natasha Denona",
         "Title": "Retro Glam Eyeshadow Palette",
         "rating": "253",
-        "price": "$69.00"
+        "price": 69.00
       },
       {
           "id":23,
@@ -1082,7 +1082,7 @@
         "Brandname": "Too Faced",
         "Title": "Sweet Peach Eyeshadow Palette",
         "rating": "3K",
-        "price": "$49.00"
+        "price": 49.00
       },
       {
           "id":24,
@@ -1090,7 +1090,7 @@
         "Brandname": "Charlotte Tilbury",
         "Title": "Luxury Eyeshadow Palette",
         "rating": "395",
-        "price": "$55.00"
+        "price": 55.00
       },
       {
           "id":25,
@@ -1098,7 +1098,7 @@
         "Brandname": "Anastasia Beverly Hills",
         "Title": "Rose Metals Eyeshadow Palette",
         "rating": "21",
-        "price": "$55.00"
+        "price": 55.00
       },
       {
           "id":26,
@@ -1106,7 +1106,7 @@
         "Brandname": "SEPHORA COLLECTION",
         "Title": "Destinations Eye Palette",
         "rating": "7",
-        "price": "$15.00"
+        "price": 15.00
       },
       {
           "id":27,
@@ -1114,7 +1114,7 @@
         "Brandname": "KVD Beauty",
         "Title": "Kitten Mini: Glamrok Shade + Light Eyeshadow Quad",
         "rating": "30",
-        "price": "$30.00"
+        "price": 30.00
       },
       {
           "id":28,
@@ -1122,7 +1122,7 @@
         "Brandname": "HUDA BEAUTY",
         "Title": "Rose Quartz Eyeshadow Palette",
         "rating": "215",
-        "price": "$67.00"
+        "price": 67.00
       },
       {
           "id":29,
@@ -1130,7 +1130,7 @@
         "Brandname": "Too Faced",
         "Title": "Born This Way The Natural Nudes Eyeshadow Palette",
         "rating": "284",
-        "price": "$52.00"
+        "price": 52.00
       },
       {
           "id":30,
@@ -1138,7 +1138,7 @@
         "Brandname": "SEPHORA COLLECTION",
         "Title": "Wishing You 12 Pan Eyeshadow Palette",
         "rating": "19",
-        "price": "$30.00"
+        "price": 30.00
       },
       {
           "id":31,
@@ -1146,7 +1146,7 @@
         "Brandname": "TOM FORD",
         "Title": "Eye Color Quad Eyeshadow Palette",
         "rating": "2.1K",
-        "price": "$89.00 - $90.00"
+        "price": 90.00
       },
       {
           "id":32,
@@ -1154,7 +1154,7 @@
         "Brandname": "Anastasia Beverly Hills",
         "Title": "Mini Soft Glam II Eye Shadow Palette",
         "rating": "76",
-        "price": "$29.00"
+        "price": 29.00
       },
       {
           "id":33,
@@ -1162,7 +1162,7 @@
         "Brandname": "Anastasia Beverly Hills",
         "Title": "Nouveau Eyeshadow Palette",
         "rating": "491",
-        "price": "$55.00"
+        "price": 55
       },
       {
           "id":34,
@@ -1170,7 +1170,7 @@
         "Brandname": "LAWLESS",
         "Title": "Mini The Little One Talc-Free Eyeshadow Palette",
         "rating": "256",
-        "price": "$25.00"
+        "price": 25
       },
       {
           "id":35,
@@ -1178,7 +1178,7 @@
         "Brandname": "PATRICK TA",
         "Title": "Major Dimension Eyeshadow Palette",
         "rating": "560",
-        "price": "$70.00"
+        "price": 70.00
       },
       {
           "id":36,
@@ -1186,7 +1186,7 @@
         "Brandname": "MAKE UP FOR EVER",
         "Title": "Artist Color Eye Shadow",
         "rating": "815",
-        "price": "$19.00"
+        "price":19.00
       },
       {
           "id":37,
@@ -1194,7 +1194,7 @@
         "Brandname": "Melt Cosmetics",
         "Title": "Gemini Eyeshadow Palette 2",
         "rating": "30",
-        "price": "$20.00"
+        "price": 20.00
       },
       {
           "id":38,
@@ -1202,7 +1202,7 @@
         "Brandname": "HUDA BEAUTY",
         "Title": "Naughty Nude Eyeshadow Palette",
         "rating": "357",
-        "price": "$67.00"
+        "price": 67.00
       },
       {
           "id":39,
@@ -1210,7 +1210,7 @@
         "Brandname": "Dior",
         "Title": "5 Couleurs Couture Eyeshadow Palette",
         "rating": "74",
-        "price": "$62.00"
+        "price": 62.00
       },
       {
           "id":40,
@@ -1218,7 +1218,7 @@
         "Brandname": "Melt Cosmetics",
         "Title": "Mini Bad Side Zodiac Eyeshadow Palette",
         "rating": "11",
-        "price": "$38.00"
+        "price": 38.00
       },
       {
           "id":41,
@@ -1226,7 +1226,7 @@
         "Brandname": "ILIA",
         "Title": "The Necessary Eyeshadow Palette",
         "rating": "125",
-        "price": "$40.00"
+        "price": 40.00
       },
       {
           "id":42,
@@ -1234,7 +1234,7 @@
         "Brandname": "Too Faced",
         "Title": "Pinker Times Ahead Eyeshadow Palette",
         "rating": "3",
-        "price": "$39.00"
+        "price": 39.00
       },
       {
           "id":43,
@@ -1242,7 +1242,7 @@
         "Brandname": "Too Faced",
         "Title": "Natural Eyes Eyeshadow Palette",
         "rating": "375",
-        "price": "$44.00"
+        "price": 44.00
       },
       {
           "id":44,
@@ -1250,7 +1250,7 @@
         "Brandname": "Natasha Denona",
         "Title": "Retro Eyeshadow Palette",
         "rating": "189",
-        "price": "$69.00"
+        "price":69.00
       },
       {
           "id":45,
@@ -1258,7 +1258,7 @@
         "Brandname": "tarte",
         "Title": "tartelette™ spark Amazonian clay palette",
         "rating": "100",
-        "price": "$25.00"
+        "price": 25.00
       },
       {
           "id":46,
@@ -1266,7 +1266,7 @@
         "Brandname": "PATRICK TA",
         "Title": "Major Dimension II Rose Eyeshadow Palette",
         "rating": "701",
-        "price": "$70.00"
+        "price": 70.00
       },
       {
           "id":47,
@@ -1274,7 +1274,7 @@
         "Brandname": "GXVE BY GWEN STEFANI",
         "Title": "Eye See in Color Clean Multidimensional Eyeshadow Palette",
         "rating": "151",
-        "price": "$28.00"
+        "price": 28.00
       },
       {
           "id":48,
@@ -1282,7 +1282,7 @@
         "Brandname": "PAT McGRATH LABS",
         "Title": "Mothership X Eyeshadow Palette: Moonlit Seduction",
         "rating": "278",
-        "price": "$128.00"
+        "price": 128
       },
       {
           "id":49,
@@ -1290,7 +1290,7 @@
         "Brandname": "Charlotte Tilbury",
         "Title": "Darling Eyeshadow Palette",
         "rating": "93",
-        "price": "$60.00"
+        "price": 60.00
       },
       {
           "id":50,
@@ -1298,7 +1298,7 @@
         "Brandname": "Natasha Denona",
         "Title": "Mini Star Eyeshadow Palette",
         "rating": "534",
-        "price": "$80.00"
+        "price": 80
       },
       {
           "id":51,
@@ -1306,7 +1306,7 @@
         "Brandname": "SEPHORA COLLECTION",
         "Title": "Wishing You Blockbuster Multi-Use Makeup Palette",
         "rating": "10",
-        "price": "$50.00"
+        "price": 50
       },
       {
           "id":52,
@@ -1314,7 +1314,7 @@
         "Brandname": "tarte",
         "Title": "Tartelette™ Amazonian Clay Matte Eyeshadow Palette",
         "rating": "2.2K",
-        "price": "$45.00"
+        "price":45
       },
       {
           "id":53,
@@ -1322,7 +1322,7 @@
         "Brandname": "Anastasia Beverly Hills",
         "Title": "Modern Renaissance Eye Shadow Palette",
         "rating": "9.1K",
-        "price": "$45.00"
+        "price": 45
       },
       {
           "id":54,
@@ -1330,7 +1330,7 @@
         "Brandname": "PAT McGRATH LABS",
         "Title": "The Golden One Eye Shadow Palette Star Wars™ Edition",
         "rating": "6",
-        "price": "$36.00"
+        "price": 36
       },
       {
           "id":55,
@@ -1338,7 +1338,7 @@
         "Brandname": "Natasha Denona",
         "Title": "Mini Gold Eyeshadow Palette",
         "rating": "250",
-        "price": "$40.00"
+        "price": 40
       },
       {
           "id":56,
@@ -1346,7 +1346,7 @@
         "Brandname": "MAKEUP BY MARIO",
         "Title": "Master Mattes™ Eyeshadow Palette",
         "rating": "479",
-        "price": "$50.00"
+        "price": 50
       },
       {
           "id":57,
@@ -1354,7 +1354,7 @@
         "Brandname": "tarte",
         "Title": "tartelette™ energy Amazonian clay palette",
         "rating": "4",
-        "price": "$45.00"
+        "price": 45
       },
       {
           "id":58,
@@ -1362,7 +1362,7 @@
         "Brandname": "Hourglass",
         "Title": "Ambient® Lighting Palette",
         "rating": "1.9K",
-        "price": "$69.00"
+        "price":69
       },
       {
           "id":59,
@@ -1370,7 +1370,7 @@
         "Brandname": "NUDESTIX",
         "Title": "Nude Earth Eye Palette 6 Pc Kit",
         "rating": "1K",
-        "price": "$69.00"
+        "price": 69
       },
       {
           "id":60,
@@ -1378,7 +1378,7 @@
         "Brandname": "Smashbox",
         "Title": "Cover Shot Eye Shadow Palette",
         "rating": "1.4K",
-        "price": "$32.00"
+        "price": 32
       }
     
      ],
@@ -1390,7 +1390,7 @@
         "Brandname": "Isle of Paradise",
         "Title": "Self Tanning Bronzing Drops",
         "rating": "2.8K",
-        "price": "$15.00 - $32.00"
+        "price": 35
       },
       {
           "id":2,
@@ -1398,7 +1398,7 @@
         "Brandname": "Nécessaire",
         "Title": "The Deodorant Gel - With 5% Alpha Hydroxy Acid (AHA) and Niacinamide",
         "rating": "498",
-        "price": "$15.00"
+        "price": 15
       },
       {
           "id":3,
@@ -1406,7 +1406,7 @@
         "Brandname": "Shiseido",
         "Title": "Clear Sunscreen Stick SPF 50+",
         "rating": "1.5K",
-        "price": "$30.00"
+        "price": 30
       },
       {
           "id":4,
@@ -1414,7 +1414,7 @@
         "Brandname": "Sol de Janeiro",
         "Title": "Mini Brazilian Crush Body Fragrance Mist",
         "rating": "1.2K",
-        "price": "$24.00"
+        "price":24
       },
       {
           "id":5,
@@ -1422,7 +1422,7 @@
         "Brandname": "Nécessaire",
         "Title": "The Body Wash - With Niacinamide, Vitamins + Plant Surfactants",
         "rating": "1.1K",
-        "price": "$25.00 - $40.00"
+        "price": 40
       },
       {
           "id":6,
@@ -1430,7 +1430,7 @@
         "Brandname": "Sol de Janeiro",
         "Title": "Mini Beija Flor™ Elasti-Cream with Collagen and Squalane",
         "rating": "199",
-        "price": "$22.00"
+        "price": 22
       },
       {
           "id":7,
@@ -1438,7 +1438,7 @@
         "Brandname": "Sol de Janeiro",
         "Title": "Bum Bum Jet Set",
         "rating": "868",
-        "price": "$30.00"
+        "price": 30
       },
       {
           "id":8,
@@ -1446,7 +1446,7 @@
         "Brandname": "TAN-LUXE",
         "Title": "Mini THE FACE Illuminating Self-Tan Drops",
         "rating": "36",
-        "price": "$25.00"
+        "price": 25
       },
       {
           "id":9,
@@ -1454,7 +1454,7 @@
         "Brandname": "Isle of Paradise",
         "Title": "Mini Self Tanning Bronzing Drops",
         "rating": "114",
-        "price": "$15.00"
+        "price": 15
       },
       {
           "id":10,
@@ -1462,7 +1462,7 @@
         "Brandname": "Supergoop!",
         "Title": "Unseen Sunscreen SPF 40 PA+++",
         "rating": "3.2K",
-        "price": "$22.00 - $48.00"
+        "price": 50
       },
       {
           "id":11,
@@ -1470,7 +1470,7 @@
         "Brandname": "Sol de Janeiro",
         "Title": "Brazilian Bum Bum Body Cream",
         "rating": "8.6K",
-        "price": "$22.00 - $48.00"
+        "price": 50
       },
       {
           "id":12,
@@ -1478,7 +1478,7 @@
         "Brandname": "Sol de Janeiro",
         "Title": "Bom Dia Bright Body Cream with Vitamin C",
         "rating": "962",
-        "price": "$22.00 - $48.00"
+        "price": 50
       },
       {
           "id":13,
@@ -1486,7 +1486,7 @@
         "Brandname": "Kosas",
         "Title": "Chemistry AHA Serum Deodorant",
         "rating": "1K",
-        "price": "$16.00"
+        "price":16
       },
       {
           "id":14,
@@ -1494,7 +1494,7 @@
         "Brandname": "Glow Recipe",
         "Title": "Watermelon Glow AHA Pink Dream Body Cream",
         "rating": "1.7K",
-        "price": "$29.00"
+        "price": 30
       },
       {
           "id":15,
@@ -1502,7 +1502,7 @@
         "Brandname": "Supergoop!",
         "Title": "Glowscreen Sunscreen SPF 40 PA+++ with Hyaluronic Acid + Niacinamide",
         "rating": "1.9K",
-        "price": "$22.00 - $48.00"
+        "price":48
       },
       {
           "id":16,
@@ -1510,7 +1510,7 @@
         "Brandname": "VOLUSPA",
         "Title": "Forbidden Fig Glass Jar Candle",
         "rating": "57",
-        "price": "$50.00"
+        "price": 50
       },
       {
           "id":17,
@@ -1518,7 +1518,7 @@
         "Brandname": "Fenty Beauty by Rihanna",
         "Title": "Body Lava Body Luminizer",
         "rating": "812",
-        "price": "$60.00"
+        "price": 60
       },
       {
           "id":18,
@@ -1526,7 +1526,7 @@
         "Brandname": "OUAI",
         "Title": "Cleansing Scalp & Body Sugar Scrub",
         "rating": "568",
-        "price": "$40.00"
+        "price":40
       },
       {
           "id":19,
@@ -1534,7 +1534,7 @@
         "Brandname": "PATRICK TA",
         "Title": "Major Glow Balm",
         "rating": "205",
-        "price": "$50.00"
+        "price": 50
       },
       {
           "id":20,
@@ -1542,7 +1542,7 @@
         "Brandname": "Fenty Skin",
         "Title": "Butta Drop Vanilla Dream Whipped Oil Body Cream with Tropical Oils + Butters",
         "rating": "115",
-        "price": "$45.00"
+        "price": 45
       },
       {
           "id":21,
@@ -1550,7 +1550,7 @@
         "Brandname": "Touchland",
         "Title": "Glow Mist Rejuvenating Hand Sanitizer",
         "rating": "40",
-        "price": "$16.00"
+        "price": 16
       },
       {
           "id":22,
@@ -1558,7 +1558,7 @@
         "Brandname": "Sol de Janeiro",
         "Title": "Beija Flor™ Elasti-Cream with Collagen and Squalane",
         "rating": "732",
-        "price": "$22.00 - $48.00"
+        "price": 48
       },
       {
           "id":23,
@@ -1566,7 +1566,7 @@
         "Brandname": "Sol de Janeiro",
         "Title": "Bum Bum Firmeza Firming & Debloating Body Oil",
         "rating": "142",
-        "price": "$52.00"
+        "price": 52
       },
       {
           "id":24,
@@ -1574,7 +1574,7 @@
         "Brandname": "Supergoop!",
         "Title": "Mineral Mattescreen Sunscreen SPF 40 PA+++",
         "rating": "124",
-        "price": "$22.00 - $38.00"
+        "price": 40
       },
       {
           "id":25,
@@ -1582,7 +1582,7 @@
         "Brandname": "Capri Blue",
         "Title": "Volcano Candle",
         "rating": "25",
-        "price": "$50.00"
+        "price": 50
       },
       {
           "id":26,
@@ -1590,7 +1590,7 @@
         "Brandname": "Supergoop!",
         "Title": "PLAY Everyday Sunscreen Lotion SPF 50 PA++++",
         "rating": "1.1K",
-        "price": "$22.00 - $58.00"
+        "price":60
       },
       {
           "id":27,
@@ -1598,7 +1598,7 @@
         "Brandname": "Isle of Paradise",
         "Title": "Even Skin Tone Self-Tanning Body Butter",
         "rating": "554",
-        "price": "$30.00"
+        "price":30
       },
       {
           "id":28,
@@ -1606,7 +1606,7 @@
         "Brandname": "innisfree",
         "Title": "Daily UV Defense Invisible Broad Spectrum SPF 36 Sunscreen",
         "rating": "1.4K",
-        "price": "$16.00 - $29.00"
+        "price": 30
       },
       {
           "id":29,
@@ -1614,7 +1614,7 @@
         "Brandname": "Sol de Janeiro",
         "Title": "Rio Deo Aluminum-Free Deodorant Cheirosa '40",
         "rating": "42",
-        "price": "$16.00"
+        "price":16
       },
       {
           "id":30,
@@ -1622,7 +1622,7 @@
         "Brandname": "Isle of Paradise",
         "Title": "Self-Tanning Mousse",
         "rating": "",
-        "price": "$32.00"
+        "price": 35
       },
       {
           "id":31,
@@ -1630,7 +1630,7 @@
         "Brandname": "Touchland",
         "Title": "Power Mist Hydrating Hand Sanitizer",
         "rating": "146",
-        "price": "$10.00"
+        "price": 10
       },
       {
           "id":32,
@@ -1638,7 +1638,7 @@
         "Brandname": "Donna Karan",
         "Title": "Cashmere Mist Aluminum Free/Alcohol Free Deodorant",
         "rating": "9",
-        "price": "$32.00"
+        "price": 32
       },
       {
           "id":33,
@@ -1646,7 +1646,7 @@
         "Brandname": "Sol de Janeiro",
         "Title": "Coco Cabana Jet Set",
         "rating": "81",
-        "price": "$30.00"
+        "price": 30
       },
       {
           "id":34,
@@ -1654,7 +1654,7 @@
         "Brandname": "Summer Fridays",
         "Title": "Jet Lag Mask",
         "rating": "4.4K",
-        "price": "$26.00 - $67.00"
+        "price": 70
       },
       {
           "id":35,
@@ -1662,7 +1662,7 @@
         "Brandname": "SEPHORA COLLECTION",
         "Title": "Clean Hand Mask",
         "rating": "64",
-        "price": "$5.00"
+        "price":10
       },
       {
           "id":36,
@@ -1670,7 +1670,7 @@
         "Brandname": "VOLUSPA",
         "Title": "Blackberry Rose Oud Tin Candle",
         "rating": "18",
-        "price": "$70.00"
+        "price": 70
       },
       {
           "id":37,
@@ -1678,7 +1678,7 @@
         "Brandname": "VOLUSPA",
         "Title": "Vanilla Fireside Glass Jar Candle",
         "rating": "20",
-        "price": "$30.00"
+        "price": 30
       },
       {
           "id":38,
@@ -1686,7 +1686,7 @@
         "Brandname": "Glow Recipe",
         "Title": "Watermelon Glow Niacinamide Sunscreen SPF 50",
         "rating": "1.3K",
-        "price": "$34.00"
+        "price": 35
       },
       {
           "id":39,
@@ -1694,7 +1694,7 @@
         "Brandname": "OUAI",
         "Title": "St. Barts Cleansing Scalp & Body Sugar Scrub",
         "rating": "869",
-        "price": "$18.00 - $40.00"
+        "price": 40
       },
       {
           "id":40,
@@ -1702,7 +1702,7 @@
         "Brandname": "Sol de Janeiro",
         "Title": "Brazilian 4 Play Moisturizing Shower Cream-Gel Mini",
         "rating": "82",
-        "price": "$10.00"
+        "price": 10
       },
       {
           "id":41,
@@ -1710,7 +1710,7 @@
         "Brandname": "Topicals",
         "Title": "Slather Exfoliating Body Serum with Retinol and AHAs",
         "rating": "166",
-        "price": "$30.00"
+        "price": 30
       },
       {
           "id":42,
@@ -1718,7 +1718,7 @@
         "Brandname": "VOLUSPA",
         "Title": "Mini Vanilla Fireside Glass Jar Candle",
         "rating": "14",
-        "price": "$40.00"
+        "price": 40
       },
       {
           "id":43,
@@ -1726,7 +1726,7 @@
         "Brandname": "belif",
         "Title": "Aqua Bomb Hydrating Body Moisturizer with Niacinamide and Hyaluronic Acid",
         "rating": "1.1K",
-        "price": "$30.00"
+        "price": 30
       },
       {
           "id":44,
@@ -1734,7 +1734,7 @@
         "Brandname": "OUAI",
         "Title": "Melrose Place Gentle Body Wash",
         "rating": "262",
-        "price": "$28.00"
+        "price": 28
       },
       {
           "id":45,
@@ -1742,7 +1742,7 @@
         "Brandname": "Sol de Janeiro",
         "Title": "Bum Bum Body Scrub",
         "rating": "403",
-        "price": "$42.00"
+        "price": 42
       },
       {
           "id":46,
@@ -1750,7 +1750,7 @@
         "Brandname": "Sol de Janeiro",
         "Title": "Mini Brazilian Bum Bum Cream",
         "rating": "8.5K",
-        "price": "$22.00"
+        "price": 22
       },
       {
           "id":47,
@@ -1758,7 +1758,7 @@
         "Brandname": "First Aid Beauty",
         "Title": "KP Bump Eraser Body Scrub with 10% AHA",
         "rating": "1.5K",
-        "price": "$12.00 - $34.00"
+        "price":35
       },
       {
           "id":48,
@@ -1766,7 +1766,7 @@
         "Brandname": "Nécessaire",
         "Title": "The Body Lotion - With Niacinamide, Vitamins + Peptides",
         "rating": "1.3K",
-        "price": "$15.00 - $28.00"
+        "price": 28
       },
       {
           "id":49,
@@ -1774,7 +1774,7 @@
         "Brandname": "VOLUSPA",
         "Title": "Mini Apple Blue Clover Glass Jar Cande",
         "rating": "15",
-        "price": "$15.00"
+        "price": 15
       },
       {
           "id":50,
@@ -1782,7 +1782,7 @@
         "Brandname": "Sol de Janeiro",
         "Title": "Brazilian 4 Play Moisturizing Shower Cream-Gel",
         "rating": "1.1K",
-        "price": "$10.00 - $56.00"
+        "price": 60
       },
       {
           "id":51,
@@ -1790,7 +1790,7 @@
         "Brandname": "Fenty Skin",
         "Title": "Butta Drop Whipped Oil Body Cream with Tropical Oils + Butters",
         "rating": "452",
-        "price": "$22.00 - $45.00"
+        "price": 45
       },
       {
           "id":52,
@@ -1798,7 +1798,7 @@
         "Brandname": "Isle of Paradise",
         "Title": "Self-Tanning Water",
         "rating": "1.1K",
-        "price": "$24.00 - $32.00"
+        "price": 35
       },
       {
           "id":53,
@@ -1806,7 +1806,7 @@
         "Brandname": "Sol de Janeiro",
         "Title": "Mini Bom Dia Bright™ Body Cream",
         "rating": "294",
-        "price": "$22.00"
+        "price": 25
       },
       {
           "id":54,
@@ -1814,7 +1814,7 @@
         "Brandname": "Isle of Paradise",
         "Title": "Self-Tanning Oil Mist",
         "rating": "319",
-        "price": "$32.00"
+        "price": 35
       },
       {
           "id":55,
@@ -1822,7 +1822,7 @@
         "Brandname": "HUM Nutrition",
         "Title": "Beauty zzZz™ Sleep Support Supplement with Melatonin",
         "rating": "213",
-        "price": "$40.00"
+        "price": 40
       },
       {
           "id":56,
@@ -1830,7 +1830,7 @@
         "Brandname": "OLEHENRIKSEN",
         "Title": "Stay in Touch Restorative Hand Crème",
         "rating": "59",
-        "price": "$40.00"
+        "price": 40
       },
       {
           "id":57,
@@ -1838,7 +1838,7 @@
         "Brandname": "Caudalie",
         "Title": "Premier Cru Fine Lines and Wrinkles Anti-Aging Set",
         "rating": "300",
-        "price": "$139.00"
+        "price": 140
       },
       {
           "id":58,
@@ -1846,7 +1846,7 @@
         "Brandname": "Supergoop!",
         "Title": "Glow Stick Sunscreen SPF 50 PA++++",
         "rating": "498",
-        "price": "$26.00"
+        "price":26
       },
       {
           "id":59,
@@ -1854,7 +1854,7 @@
         "Brandname": "OUAI",
         "Title": "Melrose Place Moisturizing Body Cream",
         "rating": "359",
-        "price": "$38.00"
+        "price": 40
       },
       {
           "id":60,
@@ -1862,7 +1862,7 @@
         "Brandname": "Dame",
         "Title": "Dip Basic Vibrator",
         "rating": "1",
-        "price": "$49.00"
+        "price": 50
       },
       {
           "id":61,
@@ -1870,7 +1870,7 @@
         "Brandname": "By Rosie Jane",
         "Title": "Wake the F*ck Up Deodorant",
         "rating": "41",
-        "price": ""
+        "price": 70
       },
       {
           "id":62,
@@ -1878,7 +1878,7 @@
         "Brandname": "Sol de Janeiro",
         "Title": "Rio Deo Aluminum-Free Refillable Deodorant Cheirosa '62",
         "rating": "705",
-        "price": "$15.00 - $16.00"
+        "price":20
       },
       {
           "id":63,
@@ -1886,7 +1886,7 @@
         "Brandname": "Sol de Janeiro",
         "Title": "Brazilian Touch Hand Cream",
         "rating": "90",
-        "price": "$16.00"
+        "price": 20
       },
       {
           "id":64,
@@ -1894,7 +1894,7 @@
         "Brandname": "SEPHORA COLLECTION",
         "Title": "Bubble Bath & Shower Gel",
         "rating": "98",
-        "price": "$50.00"
+        "price": 50
       },
       {
           "id":65,
@@ -1902,7 +1902,7 @@
         "Brandname": "Nécessaire",
         "Title": "The Body Bar - With 2% Physical Exfoliant, 5 Ceramides + Niacinamide",
         "rating": "9",
-        "price": "$12.00"
+        "price": 15
       },
       {
           "id":66,
@@ -1910,7 +1910,7 @@
         "Brandname": "Nécessaire",
         "Title": "The Body Ritual",
         "rating": "53",
-        "price": "$45.00"
+        "price": 45
       },
       {
           "id":67,
@@ -1918,7 +1918,7 @@
         "Brandname": "Nécessaire",
         "Title": "Mini The Body Lotion - With Niacinamide, Vitamins + Peptides",
         "rating": "49",
-        "price": "$15.00"
+        "price": 20
       },
       {
           "id":68,
@@ -1926,7 +1926,7 @@
         "Brandname": "SEPHORA COLLECTION",
         "Title": "Clean Foot Mask",
         "rating": "153",
-        "price": "$5.00"
+        "price":25
       },
       {
           "id":69,
@@ -1934,7 +1934,7 @@
         "Brandname": "Nécessaire",
         "Title": "The Body Serum - With Hyaluronic Acid, Niacinamide + Ceramide",
         "rating": "583",
-        "price": "$45.00"
+        "price": 45
       },
       {
           "id":70,
@@ -1942,7 +1942,7 @@
         "Brandname": "Laura Mercier",
         "Title": "Tinted Moisturizer Oil Free Natural Skin Perfector Broad Spectrum SPF 20",
         "rating": "6.4K",
-        "price": "$29.00 - $53.00"
+        "price": 55
       },
       {
           "id":71,
@@ -1950,7 +1950,7 @@
         "Brandname": "Sol de Janeiro",
         "Title": "Bom Dia Bright™ Clarifying AHA BHA Body Wash",
         "rating": "162",
-        "price": "$26.00"
+        "price": 26
       },
       {
           "id":72,
@@ -1958,7 +1958,7 @@
         "Brandname": "54 Thrones",
         "Title": "AFRICAN Beauty Butter- Intensive Dry Skin Treatment",
         "rating": "254",
-        "price": "$12.00 - $38.00"
+        "price": 38
       },
       {
           "id":73,
@@ -1966,7 +1966,7 @@
         "Brandname": "Drunk Elephant",
         "Title": "Sweet Pitti™ Deodorant Cream",
         "rating": "900",
-        "price": "$16.00"
+        "price": 20
       },
       {
           "id":74,
@@ -1974,7 +1974,7 @@
         "Brandname": "Topicals",
         "Title": "Faded Brightening & Clearing Mist",
         "rating": "85",
-        "price": "$32.00"
+        "price": 35
       },
       {
           "id":75,
@@ -1982,7 +1982,7 @@
         "Brandname": "Fenty Skin",
         "Title": "The Body Duo Mini Body Scrub + Moisturizer Essentials",
         "rating": "2",
-        "price": "$30.00"
+        "price": 30
       },
       {
           "id":76,
@@ -1990,7 +1990,7 @@
         "Brandname": "Moroccanoil",
         "Title": "Hand Cream",
         "rating": "824",
-        "price": "$12.00 - $22.00"
+        "price": 22
       },
       {
           "id":77,
@@ -1998,7 +1998,7 @@
         "Brandname": "Fenty Skin",
         "Title": "Cocoa Cleans'r Soothing All-Over Cleansing Bar",
         "rating": "294",
-        "price": "$14.00"
+        "price": 15
       },
       {
           "id":78,
@@ -2006,7 +2006,7 @@
         "Brandname": "Nécessaire",
         "Title": "The Body Exfoliator - With Bamboo Charcoal",
         "rating": "118",
-        "price": "$30.00"
+        "price": 30
       },
       {
           "id":79,
@@ -2014,7 +2014,7 @@
         "Brandname": "Supergoop!",
         "Title": "Every. Single. Face. Watery Lotion SPF 50",
         "rating": "346",
-        "price": "$34.00"
+        "price": 35
       },
       {
           "id":80,
@@ -2022,7 +2022,7 @@
         "Brandname": "HUM Nutrition",
         "Title": "Hair Sweet Hair™ - Hair Growth Vegan Gummies with Biotin and Folic Acid",
         "rating": "515",
-        "price": "$50.00"
+        "price": 50
       },
       {
           "id":81,
@@ -2030,7 +2030,7 @@
         "Brandname": "Caudalie",
         "Title": "Hand and Nail Cream",
         "rating": "1.3K",
-        "price": "$16.00"
+        "price": 20
       },
       {
           "id":82,
@@ -2038,7 +2038,7 @@
         "Brandname": "Moroccanoil",
         "Title": "Body Lotion Moisturizer",
         "rating": "1.9K",
-        "price": "$28.00"
+        "price": 30
       },
       {
           "id":83,
@@ -2046,7 +2046,7 @@
         "Brandname": "caliray",
         "Title": "Just Add Rays Universal Translucent Glow Booster Drops",
         "rating": "83",
-        "price": "$34.00"
+        "price": 35
       },
       {
           "id":84,
@@ -2054,7 +2054,7 @@
         "Brandname": "VOLUSPA",
         "Title": "Mini Forbidden Fig Decorative Tin Candle",
         "rating": "33",
-        "price": "$35.00"
+        "price": 35
       },
       {
           "id":85,
@@ -2062,7 +2062,7 @@
         "Brandname": "Drunk Elephant",
         "Title": "Sili™ Body Lotion",
         "rating": "417",
-        "price": "$20.00"
+        "price": 20
       },
       {
           "id":86,
@@ -2070,7 +2070,7 @@
         "Brandname": "TOM FORD",
         "Title": "Soleil Blanc Shimmering Body Oil",
         "rating": "815",
-        "price": "$34.00 - $100.00"
+        "price": 100
       },
       {
           "id":87,
@@ -2078,7 +2078,7 @@
         "Brandname": "SEPHORA COLLECTION",
         "Title": "Bath Bomb Bath Fizzy",
         "rating": "14",
-        "price": "$3.00"
+        "price": 10
       },
       {
           "id":88,
@@ -2086,7 +2086,7 @@
         "Brandname": "SEPHORA COLLECTION",
         "Title": "Body Oil Shower Body Oil",
         "rating": "22",
-        "price": "$9.00"
+        "price":10
       },
       {
           "id":89,
@@ -2094,7 +2094,7 @@
         "Brandname": "St. Tropez",
         "Title": "Double Sided Luxe Tan Applicator Mitt",
         "rating": "378",
-        "price": "$9.00"
+        "price":10
       },
       {
           "id":90,
@@ -2102,7 +2102,7 @@
         "Brandname": "Sol de Janeiro",
         "Title": "Coco Cabana Intense Hydration Body Cream",
         "rating": "1.9K",
-        "price": "$22.00 - $48.00"
+        "price": 50
       },
       {
           "id":91,
@@ -2110,7 +2110,7 @@
         "Brandname": "Nécessaire",
         "Title": "The Body Cream - With 5 Ceramides, Colloidal Oatmeal + Niacinamide",
         "rating": "414",
-        "price": "$45.00"
+        "price": 45
       },
       {
           "id":92,
@@ -2118,7 +2118,7 @@
         "Brandname": "OUAI",
         "Title": "Mini St. Barts Cleansing Scalp & Body Sugar Scrub",
         "rating": "5",
-        "price": "$18.00"
+        "price": 20
       },
       {
           "id":93,
@@ -2126,7 +2126,7 @@
         "Brandname": "VOLUSPA",
         "Title": "Santal Vanille Home Diffuser",
         "rating": "63",
-        "price": "$50.00"
+        "price": 50
       },
       {
           "id":94,
@@ -2134,7 +2134,7 @@
         "Brandname": "St. Tropez",
         "Title": "Self Tan Express Bronzing Mousse",
         "rating": "441",
-        "price": "$36.00 - $46.00"
+        "price": 50
       },
       {
           "id":95,
@@ -2142,7 +2142,7 @@
         "Brandname": "Sol de Janeiro",
         "Title": "Bom Dia Body Scrub 10% AHA BHA Resurfacing Complex + Crushed Maracujá Seeds",
         "rating": "125",
-        "price": "$42.00"
+        "price": 45
       },
       {
           "id":96,
@@ -2150,7 +2150,7 @@
         "Brandname": "Nécessaire",
         "Title": "The Neck Serum - With 5 Peptides | 9% Peptide Blend",
         "rating": "223",
-        "price": "$60.00"
+        "price": 60
       },
       {
           "id":97,
@@ -2158,7 +2158,7 @@
         "Brandname": "Supergoop!",
         "Title": "PLAY Antioxidant Body Sunscreen Mist SPF 50 PA++++",
         "rating": "294",
-        "price": "$21.00"
+        "price":20
       },
       {
           "id":98,
@@ -2166,7 +2166,7 @@
         "Brandname": "Sol de Janeiro",
         "Title": "Body Firmeza Massage Tool",
         "rating": "4",
-        "price": "$20.00"
+        "price": 20
       },
       {
           "id":99,
@@ -2174,7 +2174,7 @@
         "Brandname": "VOLUSPA",
         "Title": "Mini Forbidden Fig Glass Jar Candle",
         "rating": "28",
-        "price": "$50.00"
+        "price": 50
       },
       {
           "id":100,
@@ -2182,7 +2182,7 @@
         "Brandname": "SEPHORA COLLECTION",
         "Title": "Hand Balm with Shea Butter",
         "rating": "50",
-        "price": "$6.00"
+        "price": 10
       },
       {
           "id":101,
@@ -2190,7 +2190,7 @@
         "Brandname": "OLEHENRIKSEN",
         "Title": "BeamCream Smoothing Body Moisturizer with AHAs",
         "rating": "397",
-        "price": "$50.00"
+        "price": 50
       },
       {
           "id":102,
@@ -2198,7 +2198,7 @@
         "Brandname": "SEPHORA COLLECTION",
         "Title": "Moisturizing Body Lotion Body Care",
         "rating": "6",
-        "price": "$7.00"
+        "price": 10
       },
       {
           "id":103,
@@ -2206,7 +2206,7 @@
         "Brandname": "Kiehl's Since 1851",
         "Title": "Ultra Facial Cream Sunscreen SPF 30",
         "rating": "157",
-        "price": "$38.00"
+        "price": 40
       },
       {
           "id":104,
@@ -2214,7 +2214,7 @@
         "Brandname": "JLo Beauty",
         "Title": "Firm + Flaunt Targeted Booty Balm",
         "rating": "187",
-        "price": "$65.00"
+        "price":65
       },
       {
           "id":105,
@@ -2222,7 +2222,7 @@
         "Brandname": "TULA Skincare",
         "Title": "Protect + Glow Daily Sunscreen Gel Broad Spectrum SPF 30",
         "rating": "192",
-        "price": "$38.00"
+        "price": 38
       },
       {
           "id":106,
@@ -2230,7 +2230,7 @@
         "Brandname": "By Rosie Jane",
         "Title": "Calm the F*ck Down Deodorant",
         "rating": "9",
-        "price": "$20.00"
+        "price": 20
       },
       {
           "id":107,
@@ -2238,7 +2238,7 @@
         "Brandname": "First Aid Beauty",
         "Title": "Mini KP Bump Eraser Body Scrub with 10% AHA",
         "rating": "310",
-        "price": "$12.00"
+        "price": 22
       },
       {
           "id":108,
@@ -2246,7 +2246,7 @@
         "Brandname": "Paula's Choice",
         "Title": "Weightless Body Treatment 2% BHA",
         "rating": "96",
-        "price": "$29.00"
+        "price": 30
       },
       {
           "id":109,
@@ -2254,7 +2254,7 @@
         "Brandname": "fresh",
         "Title": "Milk Hydrating Hand Cream",
         "rating": "492",
-        "price": "$20.00"
+        "price": 20
       },
       {
           "id":110,
@@ -2262,7 +2262,7 @@
         "Brandname": "Topicals",
         "Title": "High Roller Ingrown Hair Tonic with AHA and BHA",
         "rating": "199",
-        "price": "$26.00"
+        "price": 30
       },
       {
           "id":111,
@@ -2270,7 +2270,7 @@
         "Brandname": "Shiseido",
         "Title": "Urban Environment Oil-Free Sunscreen Broad-Spectrum SPF 42",
         "rating": "1.3K",
-        "price": "$35.00 - $96.00"
+        "price": 100
       },
       {
           "id":112,
@@ -2278,7 +2278,7 @@
         "Brandname": "Drunk Elephant",
         "Title": "T.L.C Glycolic Body Lotion",
         "rating": "71",
-        "price": "$25.00"
+        "price": 25
       },
       {
           "id":113,
@@ -2286,7 +2286,7 @@
         "Brandname": "Vegamour",
         "Title": "GRO More Kit (Serum + Gummies)",
         "rating": "225",
-        "price": "$74.00"
+        "price": 75
       },
       {
           "id":114,
@@ -2294,7 +2294,7 @@
         "Brandname": "Moroccanoil",
         "Title": "Shower Gel Cleanser",
         "rating": "289",
-        "price": "$20.00"
+        "price": 20
       },
       {
           "id":115,
@@ -2302,7 +2302,7 @@
         "Brandname": "JLo Beauty",
         "Title": "Smooth + Seduce™ Contouring Body Cream with Caffeine",
         "rating": "130",
-        "price": "$60.00"
+        "price": 60
       },
       {
           "id":116,
@@ -2310,7 +2310,7 @@
         "Brandname": "Moroccanoil",
         "Title": "Night Body Serum",
         "rating": "524",
-        "price": "$62.00"
+        "price": 65
       },
       {
           "id":117,
@@ -2318,7 +2318,7 @@
         "Brandname": "HUM Nutrition",
         "Title": "Collagen POP + Vitamin C Dissolvable Tablets",
         "rating": "218",
-        "price": "$50.00"
+        "price":50
       },
      
       {
@@ -2327,7 +2327,7 @@
         "Brandname": "Nécessaire",
         "Title": "The Body Wash - With Niacinamide, Vitamins + Plant Surfactants Refill",
         "rating": "58",
-        "price": "$40.00"
+        "price": 40
       },
       {
           "id":119,
@@ -2335,7 +2335,7 @@
         "Brandname": "NEST New York",
         "Title": "Madagascar Vanilla Perfume Oil",
         "rating": "229",
-        "price": "$35.00 - $98.00"
+        "price":98
       },
       {
           "id":120,
@@ -2343,7 +2343,7 @@
         "Brandname": "Shiseido",
         "Title": "Urban Environment Fresh-Moisture Sunscreen Broad-Spectrum SPF 42",
         "rating": "1.2K",
-        "price": "$38.00"
+        "price":38
       },
       {
           "id":121,
@@ -2351,7 +2351,7 @@
         "Brandname": "First Aid Beauty",
         "Title": "Ingrown Hair Pads with BHA & AHA",
         "rating": "237",
-        "price": "$20.00 - $36.00"
+        "price": 36
       },
       {
           "id":122,
@@ -2359,7 +2359,7 @@
         "Brandname": "fresh",
         "Title": "Milk Body Cleanser",
         "rating": "720",
-        "price": "$32.00"
+        "price": 32
       }
       
      ]
